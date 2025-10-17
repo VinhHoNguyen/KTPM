@@ -36,7 +36,7 @@ mongoose.connect('mongodb+srv://vinhmatlo432_db_user:vinhcucyeuqa3212@cluster0.c
         id_category: '68e9f9e5e7268d2654e25101',
         name_product: 'Nike Air Zoom',
         price_product: '150',
-        image: 'http://localhost:8000/public/img/NikeAirZoom.jpg',
+        image: 'http://localhost:8000/public/NikeAirZoom.jpg',
         describe: 'High performance running shoes',
         gender: 'men'
     },
@@ -44,7 +44,7 @@ mongoose.connect('mongodb+srv://vinhmatlo432_db_user:vinhcucyeuqa3212@cluster0.c
         id_category: '68e9f9e5e7268d2654e25101',
         name_product: 'Adidas Running Tee',
         price_product: '45',
-        image: 'http://localhost:8000/public/img/ADDRunTee.jpg',
+        image: 'http://localhost:8000/public/ADDRunTee.jpg',
         describe: 'Lightweight T-shirt for men',
         gender: 'men'
     },
@@ -54,7 +54,7 @@ mongoose.connect('mongodb+srv://vinhmatlo432_db_user:vinhcucyeuqa3212@cluster0.c
         id_category: '68e9f9e5e7268d2654e25102',
         name_product: 'Nike Air Max Women',
         price_product: '160',
-        image: 'http://localhost:8000/public/img/NikeAirWomen.jpg',
+        image: 'http://localhost:8000/public/NikeAirWomen.jpg',
         describe: 'Stylish and comfortable shoes for women',
         gender: 'women'
     },
@@ -62,7 +62,7 @@ mongoose.connect('mongodb+srv://vinhmatlo432_db_user:vinhcucyeuqa3212@cluster0.c
         id_category: '68e9f9e5e7268d2654e25102',
         name_product: 'Adidas Yoga Pants',
         price_product: '75',
-        image: 'http://localhost:8000/public/img/YogaPants.jpg',
+        image: 'http://localhost:8000/public/YogaPants.jpg',
         describe: 'Flexible pants for yoga and fitness',
         gender: 'women'
     }
